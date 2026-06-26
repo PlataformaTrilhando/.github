@@ -44,6 +44,8 @@ Este projeto é desenvolvido utilizando:
 * HTML5
 * CSS3
 * JavaScript
+* Vscode
+* Git
 
 ---
 
