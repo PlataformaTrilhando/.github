@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="./profile/banner.png" alt="Banner da Trilhando" width="100%">
-</p>
-
+<div align="center">
+  <img src="imgs/Banner.png" alt='Projeto Banner' width="100%">
+</div>
 # 🚀 Trilhando
 
 > **"Muitos jovens não precisam apenas de uma vaga. Eles precisam saber qual caminho seguir para chegar até ela."**
